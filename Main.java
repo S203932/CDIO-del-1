@@ -1,4 +1,4 @@
-// Die throw between
+// Die throw between two players
 
 import java.util.Scanner;
 
