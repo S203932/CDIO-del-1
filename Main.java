@@ -5,7 +5,7 @@ public class Die {
     private int die1;
     private int die2;
 
-    // Die object containing two values representing the each die
+    // Die object containing two values representing each die
     public Die (){
         setDie();
 
