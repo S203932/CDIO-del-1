@@ -8,5 +8,5 @@ public class Die {
     // Die object containing two values representing each die
     public Die (){
         setDie();
-
     }
+    //Hvor kalder man to gifte får? et fårhold
