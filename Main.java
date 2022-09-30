@@ -9,4 +9,4 @@ public class Die {
     public Die (){
         setDie();
     }
-    //Hvor kalder man to gifte får? et fårhold
+    //Hvad kalder man to gifte får? et fårhold
